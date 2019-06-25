@@ -2,7 +2,6 @@
 bin
 .classpath
 .project
-pom.xml
 spring-rest.iml
 .gitattributes
 .idea
